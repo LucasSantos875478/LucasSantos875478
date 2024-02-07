@@ -8,6 +8,10 @@ I have advanced knowledge in Python with a focus on data science, along with exp
 
 I'm dedicating my time to studying SQL to enhance my knowledge in data management, understand the significance of indices in optimizing query performance and execution speed, as well as grasp the concepts of SQL transactions, concurrency control, and data integrity assurance in multi-user environments. Additionally, I'm seeking to familiarize myself with recommended practices to ensure data security, including access control and user permissions.
 
+##
+![python](https://img.shields.io/badge/python-1DA1F2?style=for-the-badge&logo=python&logoColor=&color=2c2c2c)
+![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
+
 ## Socials 📱
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-454584285/)
