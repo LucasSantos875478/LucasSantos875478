@@ -9,13 +9,23 @@ Possuo conhecimento avançado em Python com foco em ciência de dados, juntament
 Estou dedicando meu tempo ao estudo de SQL para aprimorar meu conhecimento em gestão de dados, compreender a importância dos índices na otimização de desempenho de consulta e velocidade de execução, além de entender os conceitos de transações SQL, controle de concorrência e garantia de integridade de dados em ambientes multiusuários. Além disso, estou buscando me familiarizar com as práticas recomendadas para garantir a segurança dos dados, incluindo controle de acesso e permissões de usuário.
 
 ## Tech Stack 💻
-![python](https://img.shields.io/badge/python-1DA1F2?style=for-the-badge&logo=python&logoColor=&color=2c2c2c)
-![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
+<div style='display: inline-block'>
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img align='center' heigth=40 width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+
+</div>
 
 ## Redes Sociais 📱
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
+[![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-454584285/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lucassantos.py/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucassantos.py/)
 <!--
 **LucasSantos875478/LucasSantos875478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
