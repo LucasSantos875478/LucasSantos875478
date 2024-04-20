@@ -15,7 +15,7 @@ Estou dedicando meu tempo ao estudo de SQL para aprimorar meu conhecimento em ge
 ## Redes Sociais 📱
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-454584285/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lucassantos875478/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lucassantos.py/)
 <!--
 **LucasSantos875478/LucasSantos875478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
