@@ -1,18 +1,18 @@
-## Hi there 👋
-Hello, I'm Lucas Santos, a data science programmer. I'm passionate about computing and mathematics. I have advanced skills in Python, intermediate knowledge of SQL and English. Currently, I'm studying statistics to enhance my expertise.
+## Olá pessoal! 👋
+Meu nome é Lucas Santos, sou programador de ciência de dados. Sou apaixonado por computação e matemática. Possuo habilidades avançadas em Python, conhecimento intermediário em SQL e inglês.
 
 ## Expertise 🚀
-I am passionate about analyzing data and turning it into useful insights for decision-making. I am studying data science concepts such as statistics and using Python along with libraries to assist in both coding and data analysis, as well as for the creation of AIs. I have been programming for 6 months and am evolving day by day.
+Tenho grande interesse em analisar dados e transformá-los em insights úteis para a tomada de decisões. Estou estudando conceitos de ciência de dados, como estatística, e utilizando Python juntamente com bibliotecas para auxiliar tanto na codificação quanto na análise de dados, além da criação de Inteligências Artificiais. Estou programando há 6 meses e evoluindo dia após dia.
 
-I have advanced knowledge in Python with a focus on data science, along with expertise in data analysis and automation. I am constantly updating my GitHub with study projects to enhance my skills in programming languages and surrounding areas that are crucial.
+Possuo conhecimento avançado em Python com foco em ciência de dados, juntamente com expertise em análise de dados e automação. Estou constantemente atualizando meu GitHub com projetos de estudo para aprimorar minhas habilidades em linguagens de programação e áreas circundantes que são cruciais.
 
-I'm dedicating my time to studying SQL to enhance my knowledge in data management, understand the significance of indices in optimizing query performance and execution speed, as well as grasp the concepts of SQL transactions, concurrency control, and data integrity assurance in multi-user environments. Additionally, I'm seeking to familiarize myself with recommended practices to ensure data security, including access control and user permissions.
+Estou dedicando meu tempo ao estudo de SQL para aprimorar meu conhecimento em gestão de dados, compreender a importância dos índices na otimização de desempenho de consulta e velocidade de execução, além de entender os conceitos de transações SQL, controle de concorrência e garantia de integridade de dados em ambientes multiusuários. Além disso, estou buscando me familiarizar com as práticas recomendadas para garantir a segurança dos dados, incluindo controle de acesso e permissões de usuário.
 
 ## Tech Stack 💻
 ![python](https://img.shields.io/badge/python-1DA1F2?style=for-the-badge&logo=python&logoColor=&color=2c2c2c)
 ![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
 
-## Socials 📱
+## Redes Sociais 📱
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantos875478)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-454584285/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/lucassantos875478/)
